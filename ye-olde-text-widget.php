@@ -50,6 +50,7 @@ class Ye_Olde_Text_Widget {
 	}
 
 	static function init() {
+		// To be sure to be sure - these shouldn't get called anyway with 'filter' now restored to be boolean.
 		remove_filter( 'widget_text_content', 'capital_P_dangit', 11 );
 		remove_filter( 'widget_text_content', 'wptexturize'          );
 		remove_filter( 'widget_text_content', 'convert_smilies',  20 );

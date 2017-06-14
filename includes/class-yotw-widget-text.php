@@ -1,6 +1,14 @@
 <?php
 
 class YOTW_Widget_Text extends WP_Widget_Text {
+
+	// Restore pre-4.8 boolean behaviour for 'filter'.
+	public function update( $new_instance, $old_instance ) {
+		$instance = parent::update( $new_instance, $old_instance );
+		$instance['filter'] = ! empty( $new_instance['filter'] );
+		return $instance;
+	}
+
 	// Copy and paste from 4.7.5 WP_Widget_text::form().
 	public function form( $instance ) {
 		$instance = wp_parse_args( (array) $instance, array( 'title' => '', 'text' => '' ) );
