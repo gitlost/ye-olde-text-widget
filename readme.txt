@@ -22,7 +22,7 @@ Install the plugin in the standard way via the 'Plugins' menu in WordPress and t
 == Changelog ==
 
 = 1.0.1 =
-* Booleanize 'filter' option to be more BC.
+* Booleanize 'filter' option to be more BC (props @fullworks).
 
 = 1.0.0 =
 * Initial github release.
