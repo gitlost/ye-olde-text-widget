@@ -1,0 +1,18 @@
+{
+  "name": "ye-olde-text-widget",
+  "version": "1.0.0",
+  "description": "Uses Ghostscript directly to generate PDF previews.",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/gitlost/ye-olde-text-widget"
+  },
+  "author": "gitlost",
+  "license": "GPL-2.0",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-compress": "^1.3.0",
+    "grunt-wp-readme-to-markdown": "~2.0.0",
+    "gulp": "^3.9.1",
+    "load-grunt-tasks": "^3.5.0"
+  }
+}
