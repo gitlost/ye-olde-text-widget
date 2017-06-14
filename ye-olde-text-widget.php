@@ -3,7 +3,7 @@
  * Plugin Name: Ye Olde Text Widget
  * Plugin URI: https://github.com/gitlost/ye-olde-text-widget
  * Description: Restores the Text Widget to as it was prior to WordPress 4.8.0.
- * Version: 1.0.0
+ * Version: 1.0.1
  * Author: gitlost
  * Author URI: https://profiles.wordpress.org/gitlost
  * License: GPLv2
