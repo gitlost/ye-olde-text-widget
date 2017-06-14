@@ -21,7 +21,14 @@ Install the plugin in the standard way via the 'Plugins' menu in WordPress and t
 
 == Changelog ==
 
+= 1.0.1 =
+* Booleanize 'filter' option to be more BC.
+
 = 1.0.0 =
 * Initial github release.
 
 == Upgrade Notice ==
+
+= 1.0.1 =
+Backwards compatible with "Automatically add paragraphs" option being set.
+
