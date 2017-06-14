@@ -1,7 +1,7 @@
 {
   "name": "ye-olde-text-widget",
-  "version": "1.0.0",
-  "description": "Uses Ghostscript directly to generate PDF previews.",
+  "version": "1.0.1",
+  "description": "Restores the Text Widget to as it was prior to WordPress 4.8.0.",
   "repository": {
     "type": "git",
     "url": "git://github.com/gitlost/ye-olde-text-widget"

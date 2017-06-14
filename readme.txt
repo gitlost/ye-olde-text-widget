@@ -3,7 +3,7 @@ Contributors: gitlost
 Tags: Text Widget, Widget
 Requires at least: 4.8.0
 Tested up to: 4.8.0
-Stable tag: 1.0.0
+Stable tag: 1.0.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -13,7 +13,7 @@ Restores the Text Widget to as it was prior to WordPress 4.8.0.
 
 A fairly minimal way to restore old behaviour.
 
-Only for Wordpress 4.8.0, and should run on PHP 5.2 to 7.1.
+Only for WordPress 4.8.0, and should run on PHP 5.2 to 7.1.
 
 == Installation ==
 
