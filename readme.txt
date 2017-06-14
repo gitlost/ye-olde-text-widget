@@ -11,7 +11,9 @@ Restores the Text Widget to as it was prior to WordPress 4.8.0.
 
 == Description ==
 
-It fairly minimal way to restore old behaviour.
+A fairly minimal way to restore old behaviour.
+
+Only for Wordpress 4.8.0, and should run on PHP 5.2 to 7.1.
 
 == Installation ==
 
